@@ -1,0 +1,5 @@
+<rss>
+  <item><title>Alpha</title><link>https://example.test/alpha</link><content>alpha beta &lt;b&gt;news&lt;/b&gt;</content></item>
+  <item><title>Beta</title><link>https://example.test/beta</link><content>beta gamma</content></item>
+  <item><title>Gamma</title><link>https://example.test/gamma</link><content>gamma delta</content></item>
+</rss>

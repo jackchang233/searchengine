@@ -1,0 +1,33 @@
+# 构建产物
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+*.o
+*.a
+*.so
+
+# 可执行程序
+bin/*
+!bin/.gitkeep
+
+# 日志
+log/*
+!log/.gitkeep
+
+# 离线程序生成的索引/语料产物（体积大，可重新生成）
+data/*
+!data/.gitkeep
+
+# 本地课程资料、第三方源码包及语料；公开仓库仅存放项目代码
+docs/
+
+# 目录重构前遗留的本地编译文件和示例副本
+src/reactorv3/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
